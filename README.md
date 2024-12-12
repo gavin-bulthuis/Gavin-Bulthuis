@@ -1,8 +1,8 @@
-Gavin Bulthuis' Portfolio
+### Gavin Bulthuis' Portfolio
 
 Welcome to my portfolio repository! Here, you'll find a collection of projects showcasing my expertise in data science, sports analytics, and machine learning. This repository is a testament to my passion for solving complex problems, building impactful models, and applying technical skills to real-world scenarios, particularly in the sports domain.
 
-🏆 About Me
+## 🏆 About Me
 
 Name: Gavin Bulthuis
 
@@ -12,7 +12,7 @@ Passions: Baseball, data-driven storytelling, and developing innovative analytic
 
 Goal: To leverage data science and engineering skills to drive decision-making in professional sports organizations
 
-📂 Portfolio Highlights
+## 📂 Portfolio Highlights
 
 1. Sports Analytics Projects
 
@@ -44,7 +44,7 @@ K-Means Algorithm: Built from scratch in Julia for clustering textual data (Dail
 
 Gradient Approximation: Verified neural network gradients using finite-difference methods.
 
-🚀 Skills
+## 🚀 Skills
 
 Programming Languages: Python, R, Julia, SQL, PySpark
 
@@ -56,7 +56,7 @@ Data Engineering: Data Cleaning, Normalization, Feature Scaling
 
 Visualization Tools: Matplotlib, ggplot2, Tableau
 
-📊 Key Metrics & Achievements
+## 📊 Key Metrics & Achievements
 
 Developed a profitable sports analytics business from the ground up.
 
@@ -66,17 +66,15 @@ Managed analytics for Barstool’s 2M+ follower network and drove impactful soci
 
 Performed K-means clustering on large-scale text data to extract actionable insights.
 
-🛠️ How to Use This Repository
+## 🛠️ How to Use This Repository
 
 Clone the repository:
-
-git clone https://github.com/GavinBulthuis/portfolio.git
 
 Navigate through the projects: Each folder contains a detailed README explaining the project.
 
 Run the code: Follow instructions within each project to replicate results or extend analyses.
 
-🌟 Contact Me
+## 🌟 Contact Me
 
 Feel free to connect or collaborate! I'm always open to discussing new ideas or opportunities:
 
