@@ -6,81 +6,55 @@ Welcome to my portfolio repository! Here, you'll find a collection of projects s
 
 Name: Gavin Bulthuis
 
-Background: Data Science major with a specialization in Sports Analytics
+Background: Data Science Major at the University of Minnesota
 
-Passions: Baseball, data-driven storytelling, and developing innovative analytics solutions
+Passions: Solving complex problems and generating actionable insights with data
 
-Goal: To leverage data science and engineering skills to drive decision-making in professional sports organizations
+Goal: To leverage data science and engineering skills to drive decision-making for companies
 
 ## 📂 Portfolio Highlights
 
 1. Sports Analytics Projects
 
-Minnesota Gophers Baseball Models: Built predictive models to optimize performance strategies for the Gophers baseball team.
+Go for Two or to not Go for Two?: Analyzed NFL teams decison process of kicking an extra point or going for a two point conversion. Created expected points metric to help assist teams in making the optimal choice.
 
-ProFootballFocus Work: Data analysis of player participation to uncover actionable insights.
+Comparing Players Across Different Positions in the NFL: Implemented a K-means clustering algorithm to rank NFL players across different positons.
+
+Traveling Tournament Problem Research: Researched different Artificial Intelligence algorithms to apply to a major league baseball schedule that minimizes the distance traveled for teams. Found that using a tiling phase and local neighborhood seach produced minimized schedules at an 85% rate.
+
+Predicting QB Passing Yards: Built simple Linear Regression model to predict Quarterback passing yards (in progress).
 
 2. Machine Learning & Optimization
 
-K-Means Clustering (USArrests): Implemented K-means clustering for US state crime data analysis.
+Temperature Prediction: Built models using Linear Regression, Lasso Regression, Ridge Regression, KNN Regression, Decision Tree Regression, Bagging Regression, Random Forest Regression, and Adaboost Regression to predict the temperature on a given day. Best performing model was Random Forests with an average 5-fold cross validated RMSE of 2.57 with an adjusted r-squared of 0.94.
 
-Neural Network (MNIST): Developed a hand-written digit recognition model with regularization and step size tuning.
+Cyber Attack Classification: Utilized modeling techniques such as XGBoost, Logistic Regression, KNN, and Random Forests to classify cyber attacks and locate common patterns among them in hopes to implement the model for companies.
 
-3. Statistical Analysis
-
-Poisson & Negative Binomial Regression: Performed Wald and likelihood ratio tests to compare model fits.
-
-Weighted Least Squares: Conducted WLS analysis on cherry tree volume data for weighted predictor optimization.
-
-4. Data Engineering Skills
-
-Data Normalization: Transformed dense vectors for efficient machine learning workflows.
-
-SQL Projects: Built and optimized queries for large-scale datasets.
-
-5. Custom Implementations
-
-K-Means Algorithm: Built from scratch in Julia for clustering textual data (DailyKos).
-
-Gradient Approximation: Verified neural network gradients using finite-difference methods.
+Neural Network (MNIST): Developed a hand-written digit recognition model with regularization and step size tuning that achieved an accuracy of 95%.
 
 ## 🚀 Skills
 
-Programming Languages: Python, R, Julia, SQL, PySpark
+Programming Languages: Python, R, Julia, SQL, C, Java
 
-Machine Learning: Logistic Regression, Random Forest, K-Means Clustering, Neural Networks
+Libraries: Pandas, Numpy, Sk-learn, Seaborn, Matplotlib, PyTorch, Tensorflow, PySpark, GGplot, Dplyr, Caret, nflfastR
 
-Statistical Analysis: Bayesian Analysis, Regression Modeling, Hypothesis Testing
-
-Data Engineering: Data Cleaning, Normalization, Feature Scaling
-
-Visualization Tools: Matplotlib, ggplot2, Tableau
+Machine Learning: Logistic Regression, Random Forest, K-Means Clustering, Neural Networks, Linear Regression, XGBoost, Adaboost, Support Vector Machines, k-Nearest Neighbors, Random Forests, Decision Trees, Bagging
 
 ## 📊 Key Metrics & Achievements
 
 Developed a profitable sports analytics business from the ground up.
 
-Contributed to improved performance strategies for the Minnesota Gophers baseball team.
+Contributed to major football analytics business success at The 33rd Team and PFF.
 
-Managed analytics for Barstool’s 2M+ follower network and drove impactful social media campaigns.
-
-Performed K-means clustering on large-scale text data to extract actionable insights.
-
-## 🛠️ How to Use This Repository
-
-Clone the repository:
-
-Navigate through the projects: Each folder contains a detailed README explaining the project.
-
-Run the code: Follow instructions within each project to replicate results or extend analyses.
+Managed analytics for Barstool’s 2M+ follower network and drove impactful social media campaigns on campus.
 
 ## 🌟 Contact Me
 
 Feel free to connect or collaborate! I'm always open to discussing new ideas or opportunities:
 
-Email: gavin.bulthuis@example.com
+Email: gavinbulthuis28@gmail.com
 
-LinkedIn: Gavin Bulthuis
+LinkedIn: https://www.linkedin.com/in/gavin-bulthuis/
 
 GitHub: @GavinBulthuis
 
