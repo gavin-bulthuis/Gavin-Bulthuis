@@ -18,6 +18,8 @@ Goal: To leverage data science and engineering skills to drive decision-making f
 
 Go for Two or to not Go for Two?: Analyzed NFL teams decison process of kicking an extra point or going for a two point conversion. Created expected points metric to help assist teams in making the optimal choice.
 
+March Madness Prediction: XGBoost Regression was applied to various college basketball metrics in hopes to find teams poised to make a run in the tournament. The model attempted to predict a "Win Score" that would tell us how far each team got in a given tournament. This win score was used to pick a bracket in 2025 and correctly identified all eight teams in the Elite 8 and scored in the 80th percentile of ESPN brackets.
+
 Grouping NFL Players by Play Styles: Utilized Principal Component Analysis and K-means clustering to reduce the dimensionality and cluster players based on over 200 statistics for each player at each position. This method factors in important metrics other than production statistics such as primary field positioning and scheme roles to more accurately cluster similar players.
 
 Tiering Players Across Different Positions in the NFL: Implemented a K-means clustering algorithm to evaluate NFL players across different positons.
