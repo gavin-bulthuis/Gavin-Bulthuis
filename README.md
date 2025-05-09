@@ -52,7 +52,7 @@ Unsupervised Learning: K-Means Clustering, Hierarchical Clustering, Spectral Clu
 
 Developed @sportsnationco a profitable sports analytics social media business from the ground up.
 
-Contributed to major football analytics business success The 33rd Team, National Football League, and Pro Football Focus.
+Contributed to major football analytics business success with The 33rd Team, National Football League, and Pro Football Focus.
 
 Managed analytics and created content for Barstool’s 2M+ follower network and drove impactful social media campaigns on campus.
 
